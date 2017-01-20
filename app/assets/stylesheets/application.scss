@@ -11,4 +11,10 @@
  * file per style scope.
  * 
  *= require_self
+ *= require bootstrap-addon
+
  */
+
+
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
